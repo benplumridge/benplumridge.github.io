@@ -7,7 +7,7 @@ My name is Benjamin Plumridge and this is my personal website. I am a graduate s
 ## Projects
 Filtered Spherical Harmonics with Neural Network Filter Strength
 
-IMEX Scheme for Thermal Radiative Transfer
+IMEX Scheme for Thermal Radiative Transfer with Filtering
 
 ## Contact
 You can reach me at  [bplumrid@vols.utk.edu](mailto:bplumrid@vols.utk.edu).
