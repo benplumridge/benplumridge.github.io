@@ -1,0 +1,23 @@
+# Site settings
+title: "Your Site Title"
+description: "A brief description of your site"
+baseurl: ""  # Leave blank unless your site is in a subfolder
+url: "https://your-username.github.io"  # Your site's URL
+
+# Author details
+author:
+  name: "Your Name"
+  email: "your-email@example.com"
+  github: "https://github.com/your-username"
+  twitter: "https://twitter.com/your-username"  # Optional
+
+# Theme settings
+theme: minima  # Or any other Jekyll theme you'd like to use
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
+
+# Pagination
+paginate: 5  # Number of posts per page, if using a blog layout
