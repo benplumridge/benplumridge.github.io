@@ -2,11 +2,10 @@ layout: default
 title: "Benjamin Plumridge"
 ---
 
-#Benjamin Plumridge 
-Welcome to my personal website.
+# Hello, I'm [Your Name]!
+Welcome to my personal website. Here's a bit about me:
+
 ## Projects
-- [Project 1](https://link-to-project1.com)
-- [Project 2](https://link-to-project2.com)
 
 ## Contact
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+You can reach me at  bplumrid@vols.utk.edu](mailto:bplumrid@vols.utk.edu).
