@@ -2,14 +2,13 @@
 title: "Your Site Title"
 description: "A brief description of your site"
 baseurl: ""  # Leave blank unless your site is in a subfolder
-url: "https://your-username.github.io"  # Your site's URL
+url: "https://benplumridge.github.io"  # Your site's URL
 
 # Author details
 author:
-  name: "Your Name"
-  email: "your-email@example.com"
-  github: "https://github.com/your-username"
-  twitter: "https://twitter.com/your-username"  # Optional
+  name: "Ben Plumridge"
+  email: "bplumrid@vols.utk.edu.com"
+  github: "https://github.com/benplumridge"
 
 # Theme settings
 theme: minima  # Or any other Jekyll theme you'd like to use
@@ -18,6 +17,3 @@ theme: minima  # Or any other Jekyll theme you'd like to use
 markdown: kramdown
 kramdown:
   input: GFM  # GitHub Flavored Markdown
-
-# Pagination
-paginate: 5  # Number of posts per page, if using a blog layout
