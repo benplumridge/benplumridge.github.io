@@ -1,6 +1,6 @@
 
-# Ben Plumridge
-Welcome to my personal website.
+# Benjamin Plumridge
+Welcome to my personal website. I am a graduate student at the University of Tennessee, Knoxville.  
 
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
