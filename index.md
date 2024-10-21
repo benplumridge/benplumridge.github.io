@@ -2,6 +2,8 @@
 # Ben Plumridge
 Welcome to my personal website. Here's a bit about me:
 
+## CV
+
 ## Projects
 
 ## Contact
