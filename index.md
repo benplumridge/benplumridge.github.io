@@ -1,6 +1,6 @@
 
-# Benjamin Plumridge
-Welcome to my personal website. I am a graduate student at the University of Tennessee, Knoxville.  
+#  Welcome! 
+My name is Benjamin Plumridge and this is my personal website. I am a graduate student at the University of Tennessee, Knoxville.  
 
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
