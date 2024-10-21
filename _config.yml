@@ -3,12 +3,6 @@
 baseurl: ""  # Leave blank unless your site is in a subfolder
 url: "https://benplumridge.github.io"  # Your site's URL
 
-# Author details
-author:
-  name: "Ben Plumridge"
-  email: "bplumrid@vols.utk.edu.com"
-  github: "https://github.com/benplumridge"
-
 # Theme settings
 theme: minima  # Or any other Jekyll theme you'd like to use
 
