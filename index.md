@@ -2,7 +2,7 @@
 # Ben Plumridge
 Welcome to my personal website.
 
-## CV
+## CV(https://github.com/benplumridge/benplumridge/raw/main/CV.pdf)
 
 ## Projects
 
