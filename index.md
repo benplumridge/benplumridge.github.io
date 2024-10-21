@@ -1,6 +1,6 @@
 
 # Ben Plumridge
-Welcome to my personal website. Here's a bit about me:
+Welcome to my personal website.
 
 ## CV
 
