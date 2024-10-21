@@ -1,12 +1,1 @@
-# Site settings
-#title:
-baseurl: ""  # Leave blank unless your site is in a subfolder
-url: "https://benplumridge.github.io"  # Your site's URL
 
-# Theme settings
-theme: minima  # Or any other Jekyll theme you'd like to use
-
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM  # GitHub Flavored Markdown
