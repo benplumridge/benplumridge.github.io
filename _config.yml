@@ -1,5 +1,5 @@
 # Site settings
-title: "Portfolio"
+title: 
 baseurl: ""  # Leave blank unless your site is in a subfolder
 url: "https://benplumridge.github.io"  # Your site's URL
 
