@@ -2,7 +2,7 @@ layout: default
 title: "Benjamin Plumridge"
 ---
 
-# Hello, I'm Ben Plumridge!
+# Ben Plumridge
 Welcome to my personal website. Here's a bit about me:
 
 ## Projects
