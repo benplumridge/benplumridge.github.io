@@ -5,9 +5,9 @@ My name is Benjamin Plumridge and this is my personal website. I am a graduate s
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
 ## Projects
-Filtered Spherical Harmonics with Neural Network Filter Strength
+Neural Network-Based Adaptive Filtering of the Spherical Harmonic Method
 
-IMEX Scheme for Thermal Radiative Transfer with Filtering
+Filtered Variable Eddington Factor Method for Thermal Radiative Transfer 
 
 ## Contact
 You can reach me at  [bplumrid@vols.utk.edu](mailto:bplumrid@vols.utk.edu).
