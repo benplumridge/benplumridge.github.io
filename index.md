@@ -26,14 +26,15 @@
     <img src="figures/schro2.png" 
          alt="Benjamin Plumridge" 
          style="
-           width: 200px; 
+           width: 300px; 
            border-radius: 15px; 
            border: 2px solid #ccc; 
-           box-shadow: 3px 3px 8px rgba(0,0,0,0.2); 
+           box-shadow: 3px 3px 12px rgba(0,0,0,0.25); 
            padding: 5px;
          ">
   </div>
 
 </body>
 </html>
+
 
