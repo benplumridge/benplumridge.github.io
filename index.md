@@ -17,7 +17,8 @@
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
 ## Projects
-Neural Network-Based Adaptive Filtering of the Spherical Harmonic Method
+Data-Driven Filtering of the Spherical Harmonics Method
+https://www.arxiv.org/abs/2510.05452
 
 Filtered Variable Eddington Factor Method for Thermal Radiative Transfer 
 
