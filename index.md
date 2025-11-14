@@ -22,6 +22,7 @@ Submitted to the *Journal of Scientific Computing* in October 2025.
 [arXiv:2510.05452](https://www.arxiv.org/abs/2510.05452)
 
 
+
 Filtered Variable Eddington Factor Method for Thermal Radiative Transfer (Manuscript in preparation) 
 
 ## Contact
