@@ -4,78 +4,101 @@
   <meta charset="UTF-8">
   <title>Benjamin Plumridge</title>
   <style>
+    /* Global Styles */
     body {
-      font-family: sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
+      font-family: Arial, sans-serif;
       background-color: #f5f5f5;
       color: #222;
+      margin: 0;
+      padding: 0;
     }
+
     a {
       color: #0066cc;
       text-decoration: none;
+      font-weight: bold;
     }
     a:hover {
       text-decoration: underline;
+    }
+
+    /* Header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 30px;
+      background-color: #f0f0f0;
+      border-bottom: 2px solid #ccc;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    nav a {
+      margin: 0 12px;
+      font-size: 1em;
+    }
+
+    /* Main content */
+    main {
+      max-width: 900px;
+      margin: 50px auto 40px auto; /* top margin avoids sticky header */
+      padding: 0 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    img.profile {
+      width: 350px;
+      max-width: 90%;
+      border-radius: 15px;
+      border: 2px solid #ccc;
+      box-shadow: 3px 3px 12px rgba(0,0,0,0.25);
+      padding: 5px;
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
 
   <!-- Header -->
-<header style="
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 30px;
-    background-color: #f0f0f0;
-    border-bottom: 2px solid #ccc;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-">
-  <!-- Name on the left -->
-  <div style="font-weight: bold; font-size: 1.2em;">
-    Benjamin Plumridge
-  </div>
+  <header>
+    <div style="font-weight: bold; font-size: 1.2em;">Benjamin Plumridge</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="CV.pdf" target="_blank">CV</a>
+      <a href="publications.html">Publications</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
 
+  <!-- Main Content -->
+  <main>
+    <h1>About Me</h1>
 
-  <!-- Navigation -->
-<nav style="text-align: center; margin-bottom: 40px;">
-  <a href="CV.pdf" style="margin: 0 15px;" target="_blank">CV</a>
-  <a href="publications.html" style="margin: 0 15px;">Publications</a>
-  <a href="teaching.html" style="margin: 0 15px;">Teaching</a>
-  <a href="contact.html" style="margin: 0 15px;">Contact</a>
-</nav>
+    <p>
+      I received my PhD in Mathematics from the University of Tennessee, Knoxville in August 2025 under the supervision of Dr. Cory Hauck.
+    </p>
 
+    <p>
+      My research focuses on numerical analysis of partial differential equations, machine learning, and scientific computing.
+    </p>
 
-<!-- Welcome Section -->
-<div style="text-align: center; margin-bottom: 50px;">
-  <h1>About Me!</h1>
-  <p>
-  I received my PhD in Mathematics at the University of Tennessee, Knoxville in August 2025 as a student of Dr. Cory Hauck. 
-  <p>
-
-  <p>
-  My research focuses on numerical analysis of partial differential equations, machine learning, and scientific computing.
-  </p>
-
-  
-
-  <img src="figures/schro2.png"
-       alt="Benjamin Plumridge"
-       style="
-         width: 350px;
-         max-width: 90%;
-         border-radius: 15px;
-         border: 2px solid #ccc;
-         box-shadow: 3px 3px 12px rgba(0,0,0,0.25);
-         padding: 5px;
-         margin-top: 20px;
-       ">
-</div>
-
+    <img src="figures/schro2.png" alt="Benjamin Plumridge" class="profile">
+  </main>
 
 </body>
 </html>
+
