@@ -9,21 +9,20 @@
       max-width: 900px;
       margin: auto;
       padding: 20px;
-      background-color: #f5f5f5;  /* soft background color */
-      color: #222;                /* dark text for contrast */
+      background-color: #f5f5f5;
+      color: #222;
     }
-
     a {
       color: #0066cc;
       text-decoration: none;
     }
-
     a:hover {
       text-decoration: underline;
     }
   </style>
 </head>
 <body>
+
 
   <!-- Navigation -->
   <nav style="text-align: center; margin-bottom: 40px;">
