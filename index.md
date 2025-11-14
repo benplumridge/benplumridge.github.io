@@ -16,7 +16,7 @@
 
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
-## Projects
+## Publications
 Data-Driven Filtering of the Spherical Harmonics Method
 
 https://www.arxiv.org/abs/2510.05452
