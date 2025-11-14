@@ -1,5 +1,4 @@
-
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 1; padding-right: 20px;">
     <h1>Welcome!</h1>
     <p>
@@ -11,7 +10,13 @@
 
   <img src="figures/schro2.png" 
        alt="Benjamin Plumridge" 
-       style="width: 200px; border-radius: 10px;">
+       style="
+         width: 200px; 
+         border-radius: 15px; 
+         border: 2px solid #ccc; 
+         box-shadow: 3px 3px 8px rgba(0,0,0,0.2); 
+         padding: 5px;
+       ">
 </div>
 
 ## [CV](https://benplumridge.github.io/CV.pdf)
