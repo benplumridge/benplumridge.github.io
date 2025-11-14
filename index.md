@@ -1,3 +1,11 @@
+<nav style="text-align: center; margin-bottom: 40px;">
+  <a href="#cv" style="margin: 0 15px;">CV</a>
+  <a href="#publications" style="margin: 0 15px;">Publications</a>
+  <a href="#teaching" style="margin: 0 15px;">Teaching</a>
+  <a href="#contact" style="margin: 0 15px;">Contact</a>
+</nav>
+
+
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 1; padding-right: 20px;">
     <h1>Welcome!</h1>
