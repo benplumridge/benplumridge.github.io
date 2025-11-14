@@ -14,7 +14,7 @@
        style="width: 200px; border-radius: 10px;">
 </div>
 
-## [CV](https://username.github.io/benplumridge/CV.pdf)
+## [[CV](https://username.github.io/benplumridge/CV.pdf)](https://benplumridge.github.io/CV.pdf)
 
 ## Projects
 Neural Network-Based Adaptive Filtering of the Spherical Harmonic Method
