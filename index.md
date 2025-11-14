@@ -17,11 +17,9 @@
 ## [CV](https://benplumridge.github.io/CV.pdf)
 
 ## Publications
-Data-Driven Filtering of the Spherical Harmonics Method
+Data-Driven Filtering of the Spherical Harmonics Method.  Submitted to the Journal of Scientific Computing (https://www.arxiv.org/abs/2510.05452)
 
-https://www.arxiv.org/abs/2510.05452
-
-Filtered Variable Eddington Factor Method for Thermal Radiative Transfer 
+Filtered Variable Eddington Factor Method for Thermal Radiative Transfer (Manuscript in preparation) 
 
 ## Contact
 You can reach me at  [bplumrid@vols.utk.edu](mailto:bplumrid@vols.utk.edu).
