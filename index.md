@@ -1,3 +1,5 @@
+<body style="font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px; background-color: #f5f5f5;">
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
