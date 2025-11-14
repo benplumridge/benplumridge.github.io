@@ -3,10 +3,9 @@
   <div style="flex: 1; padding-right: 20px;">
     <h1>Welcome!</h1>
     <p>
-      My name is Benjamin Plumridge and this is my personal website.  
-      I am a graduate student at the University of Tennessee, Knoxville.  
-      My research interests are in numerical analysis of PDEs and modeling 
-      in Physics and Biology.
+      Welcome to my personal website.
+      I am Benjamin Plumridge, a recent graduate of the University of Tennessee, Knoxville.  
+      My research is focused on numerical analysis of partial differential equations, machine learning, and scientific computing.
     </p>
   </div>
 
