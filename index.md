@@ -1,12 +1,29 @@
-<body style="font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px; background-color: #f5f5f5;">
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Benjamin Plumridge</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background-color: #f5f5f5;  /* soft background color */
+      color: #222;                /* dark text for contrast */
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
-<body style="font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px;">
+<body>
 
   <!-- Navigation -->
   <nav style="text-align: center; margin-bottom: 40px;">
@@ -38,5 +55,3 @@
 
 </body>
 </html>
-
-
