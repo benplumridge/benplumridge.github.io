@@ -27,7 +27,13 @@
        ">
 </div>
 
-## [CV](https://benplumridge.github.io/CV.pdf)
+
+<!-- CV Section -->
+<div id="cv">
+  <h2>Curriculum Vitae</h2>
+  <p><a href="CV.pdf" target="_blank">Download my CV</a></p>
+</div>
+
 
 ## Publications
 **Data-Driven Filtering of the Spherical Harmonics Method**  
