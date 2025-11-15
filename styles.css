@@ -38,6 +38,7 @@ nav a {
 /* Container for card-style sections */
 .container {
   background-color: #ffffff;
+  color: #222222; /* dark text inside container */
   border-radius: 8px;
   padding: 30px 20px;
   margin: 40px auto;
@@ -45,6 +46,7 @@ nav a {
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   text-align: center;
 }
+
 
 /* Headings and paragraphs */
 h1 {
