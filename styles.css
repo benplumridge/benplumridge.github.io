@@ -47,6 +47,10 @@ nav a {
   text-align: left;
 }
 
+.container h1, 
+.container h2 {
+  text-align: center;
+}
 
 /* Headings and paragraphs */
 h1 {
