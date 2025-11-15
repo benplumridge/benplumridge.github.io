@@ -37,7 +37,7 @@
 
     nav a {
       margin: 0 12px;
-      font-size: 1em;
+      font-size: 1.05em; /* Slightly increased for spacing */
     }
 
     /* Main content */
@@ -59,14 +59,29 @@
       margin-bottom: 20px;
     }
 
+    /* Image styling */
     img.plot-img {
       width: 500px;
       max-width: 100%;
-      border-radius: 8px;    /* optional */
+      height: auto;
+      border-radius: 8px;
       border: 1px solid #ccc;
       box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
       padding: 4px;
       background: white;
+    }
+
+    /* Figure and caption styling */
+    figure.plot {
+      text-align: center;
+      margin: 40px auto;
+    }
+
+    figure.plot figcaption {
+      font-size: 0.95em;
+      color: #555;
+      margin-top: 8px;
+      font-style: italic;
     }
   </style>
 </head>
@@ -100,7 +115,6 @@
     <p>
       In my free time, I enjoy writing music for bass guitar and piano, exercising, cooking, and playing chess. 
     </p>
-
 
     <figure class="plot">
       <img src="figures/schro2.png" alt="Numerical solution" class="plot-img">
